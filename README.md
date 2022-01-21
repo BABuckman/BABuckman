@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BABuckman
 - 👀 I’m interested in machine learning, artificial intelligence, and programming
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data mining and artificial intelligence projects
+- 💞️ I’m looking to collaborate on mobile programming with Java/Kotlin, machine learning, and artificial intelligence projects
 - 📫 How to reach me - twitter: @BABuckman
 
 <!---
